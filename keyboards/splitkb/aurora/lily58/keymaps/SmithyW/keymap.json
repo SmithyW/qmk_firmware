@@ -30,8 +30,8 @@
         [
             "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",                       "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
             "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",                       "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
-            "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",                       "KC_NO", "KC_NO", "RGB_TOG", "RGB_HUI", "RGB_SAI", "RGB_VAI",
-            "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",    "KC_NO", "KC_NO", "RGB_MOD", "RGB_HUD", "RGB_SAD", "RGB_VAD",
+            "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",                       "KC_NO", "KC_NO", "RM_TOGG", "RM_HUEU", "RM_SATU", "RM_VALU",
+            "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",    "KC_NO", "KC_NO", "RM_NEXT", "RM_HUED", "RM_SATD", "RM_VALD",
                                       "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"
         ],
         [
